@@ -4,3 +4,7 @@ git push myrepo master
 git pull myrepo master
 
 git push myrepo master:master
+
+git pull myrepo master:master
+git push myrepo master:master
+
