@@ -1,1 +1,6 @@
 wetrterty
+git push myrepo master
+
+git pull myrepo master
+
+git push myrepo master:master
